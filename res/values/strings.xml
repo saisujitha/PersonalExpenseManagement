@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expense Management</string>
+    <string name="title_expense_detail">Expense Detail</string>
+
+</resources>
